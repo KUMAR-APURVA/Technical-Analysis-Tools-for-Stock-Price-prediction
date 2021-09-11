@@ -8,4 +8,4 @@ often used to generate short-term trading signals from various charting tools, b
 also help improve the evaluation of a security's strength or weakness relative to the 
 broader market or one of its sectors.
 
-In this project we have focused on 5 different Technical analysis tools namely MACD, RSI, Bollinger Band, Fibonacci Retracement and AROON for Stock Price Prediction. We implemented the python code corresponding to these tools. We used the data of Apple.inc .
+In this project we have focused on 4 different Technical analysis tools namely MACD, RSI, Bollinger Band and Fibonacci Retracement\ for Stock Price Prediction. We implemented the python code corresponding to these tools. We used the data of Apple.inc .
